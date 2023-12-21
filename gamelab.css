@@ -2,6 +2,8 @@
    If you are changing the location of these files,
    see the readme in this directory for more detail on manual steps to take when uploading new files.
  */
+
+ /* Code.org stuff (do not touch) */
 #debugResizeBar {
   width: 100%;
   height: 13px;
@@ -399,7 +401,6 @@
 #studio-dpad-button.down {
   top: 17px;
 }
-
 #studio-space-button {
   position: absolute;
   border-radius: 40px;
@@ -420,4 +421,12 @@
 }
 #studio-space-button:focus {
   outline: 0;
+}
+
+/* My classes and other stuff */
+h1 {
+  font-size: 24px;
+  color: #05400f;
+  font-family: "Arial";
+
 }
