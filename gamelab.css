@@ -424,8 +424,22 @@
 }
 
 /* My classes and other stuff */
+
 h1 {
   font-size: 24px;
   color: #5b0303;
   font-family: "Arial";
+}
+.button {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #b69ee9;
+  font-family: cursive;
+  box-shadow: 5px 5px 2px rgb(0, 0, 0, 30%);
+}
+.button:hover {
+  background-color: #93f3a4;
+  box-shadow: 5px 5px 1px rgb(0,0,0,30%);
 }
